@@ -1,0 +1,7 @@
+C:\Users\erick\OneDrive\Documentos\Programas\C#\ManejoArchivos\bin\Debug\ManejoArchivos.exe.config
+C:\Users\erick\OneDrive\Documentos\Programas\C#\ManejoArchivos\bin\Debug\ManejoArchivos.exe
+C:\Users\erick\OneDrive\Documentos\Programas\C#\ManejoArchivos\bin\Debug\ManejoArchivos.pdb
+C:\Users\erick\OneDrive\Documentos\Programas\C#\ManejoArchivos\obj\Debug\ManejoArchivos.csprojAssemblyReference.cache
+C:\Users\erick\OneDrive\Documentos\Programas\C#\ManejoArchivos\obj\Debug\ManejoArchivos.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Documentos\Programas\C#\ManejoArchivos\obj\Debug\ManejoArchivos.exe
+C:\Users\erick\OneDrive\Documentos\Programas\C#\ManejoArchivos\obj\Debug\ManejoArchivos.pdb

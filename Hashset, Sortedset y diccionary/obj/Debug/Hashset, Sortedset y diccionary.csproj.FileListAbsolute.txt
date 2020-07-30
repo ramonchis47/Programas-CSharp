@@ -1,0 +1,7 @@
+C:\Users\erick\OneDrive\Documentos\Programas\C#\Hashset, Sortedset y diccionary\bin\Debug\Hashset, Sortedset y diccionary.exe.config
+C:\Users\erick\OneDrive\Documentos\Programas\C#\Hashset, Sortedset y diccionary\bin\Debug\Hashset, Sortedset y diccionary.exe
+C:\Users\erick\OneDrive\Documentos\Programas\C#\Hashset, Sortedset y diccionary\bin\Debug\Hashset, Sortedset y diccionary.pdb
+C:\Users\erick\OneDrive\Documentos\Programas\C#\Hashset, Sortedset y diccionary\obj\Debug\Hashset, Sortedset y diccionary.csprojAssemblyReference.cache
+C:\Users\erick\OneDrive\Documentos\Programas\C#\Hashset, Sortedset y diccionary\obj\Debug\Hashset, Sortedset y diccionary.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Documentos\Programas\C#\Hashset, Sortedset y diccionary\obj\Debug\Hashset, Sortedset y diccionary.exe
+C:\Users\erick\OneDrive\Documentos\Programas\C#\Hashset, Sortedset y diccionary\obj\Debug\Hashset, Sortedset y diccionary.pdb

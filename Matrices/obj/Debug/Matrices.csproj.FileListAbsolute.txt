@@ -1,0 +1,7 @@
+C:\Users\erick\OneDrive\Documentos\Programas\C#\Matrices\bin\Debug\Matrices.exe.config
+C:\Users\erick\OneDrive\Documentos\Programas\C#\Matrices\bin\Debug\Matrices.exe
+C:\Users\erick\OneDrive\Documentos\Programas\C#\Matrices\bin\Debug\Matrices.pdb
+C:\Users\erick\OneDrive\Documentos\Programas\C#\Matrices\obj\Debug\Matrices.csprojAssemblyReference.cache
+C:\Users\erick\OneDrive\Documentos\Programas\C#\Matrices\obj\Debug\Matrices.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Documentos\Programas\C#\Matrices\obj\Debug\Matrices.exe
+C:\Users\erick\OneDrive\Documentos\Programas\C#\Matrices\obj\Debug\Matrices.pdb

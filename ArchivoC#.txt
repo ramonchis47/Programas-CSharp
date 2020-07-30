@@ -1,0 +1,6 @@
+Hola
+Es algo dificil
+Manejar archivos
+Se hace con StreamWriter para escribir
+Y para leer es con StreamReader
+Fin del comunicado

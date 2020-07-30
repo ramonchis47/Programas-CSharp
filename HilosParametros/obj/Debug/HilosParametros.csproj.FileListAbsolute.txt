@@ -1,0 +1,7 @@
+C:\Users\erick\OneDrive\Documentos\Programas\C#\HilosParametros\bin\Debug\HilosParametros.exe.config
+C:\Users\erick\OneDrive\Documentos\Programas\C#\HilosParametros\bin\Debug\HilosParametros.exe
+C:\Users\erick\OneDrive\Documentos\Programas\C#\HilosParametros\bin\Debug\HilosParametros.pdb
+C:\Users\erick\OneDrive\Documentos\Programas\C#\HilosParametros\obj\Debug\HilosParametros.csprojAssemblyReference.cache
+C:\Users\erick\OneDrive\Documentos\Programas\C#\HilosParametros\obj\Debug\HilosParametros.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Documentos\Programas\C#\HilosParametros\obj\Debug\HilosParametros.exe
+C:\Users\erick\OneDrive\Documentos\Programas\C#\HilosParametros\obj\Debug\HilosParametros.pdb

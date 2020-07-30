@@ -1,0 +1,7 @@
+C:\Users\erick\OneDrive\Documentos\Programas\C#\TipodeValor\bin\Debug\TipodeValor.exe.config
+C:\Users\erick\OneDrive\Documentos\Programas\C#\TipodeValor\bin\Debug\TipodeValor.exe
+C:\Users\erick\OneDrive\Documentos\Programas\C#\TipodeValor\bin\Debug\TipodeValor.pdb
+C:\Users\erick\OneDrive\Documentos\Programas\C#\TipodeValor\obj\Debug\TipodeValor.csprojAssemblyReference.cache
+C:\Users\erick\OneDrive\Documentos\Programas\C#\TipodeValor\obj\Debug\TipodeValor.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Documentos\Programas\C#\TipodeValor\obj\Debug\TipodeValor.exe
+C:\Users\erick\OneDrive\Documentos\Programas\C#\TipodeValor\obj\Debug\TipodeValor.pdb

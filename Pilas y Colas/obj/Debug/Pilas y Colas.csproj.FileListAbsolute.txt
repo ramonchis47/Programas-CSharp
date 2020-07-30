@@ -1,0 +1,7 @@
+C:\Users\erick\OneDrive\Documentos\Programas\C#\Pilas y Colas\bin\Debug\Pilas y Colas.exe.config
+C:\Users\erick\OneDrive\Documentos\Programas\C#\Pilas y Colas\bin\Debug\Pilas y Colas.exe
+C:\Users\erick\OneDrive\Documentos\Programas\C#\Pilas y Colas\bin\Debug\Pilas y Colas.pdb
+C:\Users\erick\OneDrive\Documentos\Programas\C#\Pilas y Colas\obj\Debug\Pilas y Colas.csprojAssemblyReference.cache
+C:\Users\erick\OneDrive\Documentos\Programas\C#\Pilas y Colas\obj\Debug\Pilas y Colas.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Documentos\Programas\C#\Pilas y Colas\obj\Debug\Pilas y Colas.exe
+C:\Users\erick\OneDrive\Documentos\Programas\C#\Pilas y Colas\obj\Debug\Pilas y Colas.pdb

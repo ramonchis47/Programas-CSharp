@@ -1,0 +1,7 @@
+C:\Users\erick\OneDrive\Documentos\Programas\C#\Primera\bin\Debug\Primera.exe.config
+C:\Users\erick\OneDrive\Documentos\Programas\C#\Primera\bin\Debug\Primera.exe
+C:\Users\erick\OneDrive\Documentos\Programas\C#\Primera\bin\Debug\Primera.pdb
+C:\Users\erick\OneDrive\Documentos\Programas\C#\Primera\obj\Debug\Primera.csprojAssemblyReference.cache
+C:\Users\erick\OneDrive\Documentos\Programas\C#\Primera\obj\Debug\Primera.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Documentos\Programas\C#\Primera\obj\Debug\Primera.exe
+C:\Users\erick\OneDrive\Documentos\Programas\C#\Primera\obj\Debug\Primera.pdb

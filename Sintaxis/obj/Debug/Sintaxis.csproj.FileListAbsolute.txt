@@ -1,0 +1,7 @@
+C:\Users\erick\OneDrive\Documentos\Programas\C#\Sintaxis\bin\Debug\Sintaxis.exe.config
+C:\Users\erick\OneDrive\Documentos\Programas\C#\Sintaxis\bin\Debug\Sintaxis.exe
+C:\Users\erick\OneDrive\Documentos\Programas\C#\Sintaxis\bin\Debug\Sintaxis.pdb
+C:\Users\erick\OneDrive\Documentos\Programas\C#\Sintaxis\obj\Debug\Sintaxis.csprojAssemblyReference.cache
+C:\Users\erick\OneDrive\Documentos\Programas\C#\Sintaxis\obj\Debug\Sintaxis.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Documentos\Programas\C#\Sintaxis\obj\Debug\Sintaxis.exe
+C:\Users\erick\OneDrive\Documentos\Programas\C#\Sintaxis\obj\Debug\Sintaxis.pdb

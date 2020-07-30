@@ -1,0 +1,7 @@
+C:\Users\erick\OneDrive\Documentos\Programas\C#\Hilos\bin\Debug\Hilos.exe.config
+C:\Users\erick\OneDrive\Documentos\Programas\C#\Hilos\bin\Debug\Hilos.exe
+C:\Users\erick\OneDrive\Documentos\Programas\C#\Hilos\bin\Debug\Hilos.pdb
+C:\Users\erick\OneDrive\Documentos\Programas\C#\Hilos\obj\Debug\Hilos.csprojAssemblyReference.cache
+C:\Users\erick\OneDrive\Documentos\Programas\C#\Hilos\obj\Debug\Hilos.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Documentos\Programas\C#\Hilos\obj\Debug\Hilos.exe
+C:\Users\erick\OneDrive\Documentos\Programas\C#\Hilos\obj\Debug\Hilos.pdb

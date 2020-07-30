@@ -1,0 +1,7 @@
+C:\Users\erick\OneDrive\Documentos\Programas\C#\Area de un circulo\bin\Debug\Area de un circulo.exe.config
+C:\Users\erick\OneDrive\Documentos\Programas\C#\Area de un circulo\bin\Debug\Area de un circulo.exe
+C:\Users\erick\OneDrive\Documentos\Programas\C#\Area de un circulo\bin\Debug\Area de un circulo.pdb
+C:\Users\erick\OneDrive\Documentos\Programas\C#\Area de un circulo\obj\Debug\Area de un circulo.csprojAssemblyReference.cache
+C:\Users\erick\OneDrive\Documentos\Programas\C#\Area de un circulo\obj\Debug\Area de un circulo.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Documentos\Programas\C#\Area de un circulo\obj\Debug\Area de un circulo.exe
+C:\Users\erick\OneDrive\Documentos\Programas\C#\Area de un circulo\obj\Debug\Area de un circulo.pdb

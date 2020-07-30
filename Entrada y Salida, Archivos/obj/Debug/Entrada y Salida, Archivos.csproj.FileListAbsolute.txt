@@ -1,0 +1,7 @@
+C:\Users\erick\OneDrive\Documentos\Programas\C#\Entrada y Salida, Archivos\bin\Debug\Entrada y Salida, Archivos.exe.config
+C:\Users\erick\OneDrive\Documentos\Programas\C#\Entrada y Salida, Archivos\bin\Debug\Entrada y Salida, Archivos.exe
+C:\Users\erick\OneDrive\Documentos\Programas\C#\Entrada y Salida, Archivos\bin\Debug\Entrada y Salida, Archivos.pdb
+C:\Users\erick\OneDrive\Documentos\Programas\C#\Entrada y Salida, Archivos\obj\Debug\Entrada y Salida, Archivos.csprojAssemblyReference.cache
+C:\Users\erick\OneDrive\Documentos\Programas\C#\Entrada y Salida, Archivos\obj\Debug\Entrada y Salida, Archivos.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Documentos\Programas\C#\Entrada y Salida, Archivos\obj\Debug\Entrada y Salida, Archivos.exe
+C:\Users\erick\OneDrive\Documentos\Programas\C#\Entrada y Salida, Archivos\obj\Debug\Entrada y Salida, Archivos.pdb
